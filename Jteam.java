@@ -1,5 +1,7 @@
 public Jteam{
   public static void main(String args[]){
-    //type ur code here!
+    System.out.println("Gokul Anand");
+    System.out.println("TMGA");
+    System.out.println("Anand");
     }
 }
